@@ -1,5 +1,5 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](https://www.linkedin.com/in/matepotyesz/)
-<h1 align="center">Hi 👋, My name is Máté Potyesz</h1>
+<h1 align="center">Hi 👋,I'm Máté Potyesz</h1>
 <h3 align="center">I'm a MA Computer Science student in the University of Szeged.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"
 
