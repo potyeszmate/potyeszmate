@@ -8,7 +8,7 @@
 
 - 🔭 I am currently looking for an **internship**
 
-- 🌱 I’m currently learning **Angular, Typescript, Advanced C++**
+- 🌱 I’m currently learning **Angular, TypeScript and Advanced C++**
 
 - 📫 How to reach me: **potyeszmate@gmail.com**
 
