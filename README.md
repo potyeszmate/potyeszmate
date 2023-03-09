@@ -6,13 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=potyeszmate&label=Profile%20views&color=0e75b6&style=flat" alt="potyeszmate" /> </p>
 
-- 🔭 I am currently looking for an **internship**
-
-- 🌱 I’m currently learning **Angular, TypeScript and Advanced C++**
-
 - 📫 How to reach me: **potyeszmate@gmail.com**
 
-- ✨ My hobbies: **Football, Computer Games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
